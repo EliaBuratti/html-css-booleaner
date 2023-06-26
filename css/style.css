@@ -49,15 +49,15 @@ h1 {
 
 .picture-left{
 
-        width: 45%;
-        height: 250px;
+    width: 49%;
+    height: 220px;
 
 }
 
 .picture-right{
 
-    width: 45%;
-    height: 250px;
+    width: 49%;
+    height: 220px;
 
 }
 
@@ -71,4 +71,23 @@ h1 {
 .desciption-pictures {
 
     font-size: 8px;
+    margin-bottom: 10px;
+}
+
+.article {
+
+    font-size: 10px;
+
+}
+
+.highlighter {
+
+    background-color: yellow;
+
+}
+
+ul {
+
+    padding-left: 10px;
+    margin-top: 10px;
 }
