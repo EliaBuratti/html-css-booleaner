@@ -1,0 +1,25 @@
+/* css reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pattern {
+
+    background-color:lightskyblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+
+}
+
+.logo{
+
+    height: 40px;
+    
+}
